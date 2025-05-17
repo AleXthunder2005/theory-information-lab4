@@ -1,0 +1,10 @@
+C:\Labs\theory-information\theory-information-lab4\theory-information-lab4\bin\Debug\theory-information-lab4.exe.config
+C:\Labs\theory-information\theory-information-lab4\theory-information-lab4\bin\Debug\theory-information-lab4.exe
+C:\Labs\theory-information\theory-information-lab4\theory-information-lab4\bin\Debug\theory-information-lab4.pdb
+C:\Labs\theory-information\theory-information-lab4\theory-information-lab4\obj\Debug\theory-information-lab4.csproj.AssemblyReference.cache
+C:\Labs\theory-information\theory-information-lab4\theory-information-lab4\obj\Debug\theory_information_lab4.fMain.resources
+C:\Labs\theory-information\theory-information-lab4\theory-information-lab4\obj\Debug\theory_information_lab4.Properties.Resources.resources
+C:\Labs\theory-information\theory-information-lab4\theory-information-lab4\obj\Debug\theory-information-lab4.csproj.GenerateResource.cache
+C:\Labs\theory-information\theory-information-lab4\theory-information-lab4\obj\Debug\theory-information-lab4.csproj.CoreCompileInputs.cache
+C:\Labs\theory-information\theory-information-lab4\theory-information-lab4\obj\Debug\theory-information-lab4.exe
+C:\Labs\theory-information\theory-information-lab4\theory-information-lab4\obj\Debug\theory-information-lab4.pdb

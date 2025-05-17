@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Labs\\theory-information\\theory-information-lab4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3643B955-B3B4-4141-A23A-6E4726E2608D}|theory-information-lab4\\theory-information-lab4.csproj|c:\\labs\\theory-information\\theory-information-lab4\\theory-information-lab4\\fmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3643B955-B3B4-4141-A23A-6E4726E2608D}|theory-information-lab4\\theory-information-lab4.csproj|solutionrelative:theory-information-lab4\\fmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3643B955-B3B4-4141-A23A-6E4726E2608D}|theory-information-lab4\\theory-information-lab4.csproj|c:\\labs\\theory-information\\theory-information-lab4\\theory-information-lab4\\rsamodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3643B955-B3B4-4141-A23A-6E4726E2608D}|theory-information-lab4\\theory-information-lab4.csproj|solutionrelative:theory-information-lab4\\rsamodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3643B955-B3B4-4141-A23A-6E4726E2608D}|theory-information-lab4\\theory-information-lab4.csproj|c:\\labs\\theory-information\\theory-information-lab4\\theory-information-lab4\\fmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3643B955-B3B4-4141-A23A-6E4726E2608D}|theory-information-lab4\\theory-information-lab4.csproj|solutionrelative:theory-information-lab4\\fmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3643B955-B3B4-4141-A23A-6E4726E2608D}|theory-information-lab4\\theory-information-lab4.csproj|c:\\labs\\theory-information\\theory-information-lab4\\theory-information-lab4\\validator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3643B955-B3B4-4141-A23A-6E4726E2608D}|theory-information-lab4\\theory-information-lab4.csproj|solutionrelative:theory-information-lab4\\validator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3643B955-B3B4-4141-A23A-6E4726E2608D}|theory-information-lab4\\theory-information-lab4.csproj|c:\\labs\\theory-information\\theory-information-lab4\\theory-information-lab4\\mathtools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3643B955-B3B4-4141-A23A-6E4726E2608D}|theory-information-lab4\\theory-information-lab4.csproj|solutionrelative:theory-information-lab4\\mathtools.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3643B955-B3B4-4141-A23A-6E4726E2608D}|theory-information-lab4\\theory-information-lab4.csproj|c:\\labs\\theory-information\\theory-information-lab4\\theory-information-lab4\\hashmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3643B955-B3B4-4141-A23A-6E4726E2608D}|theory-information-lab4\\theory-information-lab4.csproj|solutionrelative:theory-information-lab4\\hashmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HashModule.cs",
+              "DocumentMoniker": "C:\\Labs\\theory-information\\theory-information-lab4\\theory-information-lab4\\HashModule.cs",
+              "RelativeDocumentMoniker": "theory-information-lab4\\HashModule.cs",
+              "ToolTip": "C:\\Labs\\theory-information\\theory-information-lab4\\theory-information-lab4\\HashModule.cs",
+              "RelativeToolTip": "theory-information-lab4\\HashModule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T17:56:18.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Validator.cs",
+              "DocumentMoniker": "C:\\Labs\\theory-information\\theory-information-lab4\\theory-information-lab4\\Validator.cs",
+              "RelativeDocumentMoniker": "theory-information-lab4\\Validator.cs",
+              "ToolTip": "C:\\Labs\\theory-information\\theory-information-lab4\\theory-information-lab4\\Validator.cs",
+              "RelativeToolTip": "theory-information-lab4\\Validator.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAgwFUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T17:52:14.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MathTools.cs",
+              "DocumentMoniker": "C:\\Labs\\theory-information\\theory-information-lab4\\theory-information-lab4\\MathTools.cs",
+              "RelativeDocumentMoniker": "theory-information-lab4\\MathTools.cs",
+              "ToolTip": "C:\\Labs\\theory-information\\theory-information-lab4\\theory-information-lab4\\MathTools.cs",
+              "RelativeToolTip": "theory-information-lab4\\MathTools.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAmwFQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T16:33:52.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RSAModule.cs",
+              "DocumentMoniker": "C:\\Labs\\theory-information\\theory-information-lab4\\theory-information-lab4\\RSAModule.cs",
+              "RelativeDocumentMoniker": "theory-information-lab4\\RSAModule.cs",
+              "ToolTip": "C:\\Labs\\theory-information\\theory-information-lab4\\theory-information-lab4\\RSAModule.cs",
+              "RelativeToolTip": "theory-information-lab4\\RSAModule.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAewDIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T16:39:03.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "fMain.cs [Design]",
+              "DocumentMoniker": "C:\\Labs\\theory-information\\theory-information-lab4\\theory-information-lab4\\fMain.cs",
+              "RelativeDocumentMoniker": "theory-information-lab4\\fMain.cs",
+              "ToolTip": "C:\\Labs\\theory-information\\theory-information-lab4\\theory-information-lab4\\fMain.cs [Design]",
+              "RelativeToolTip": "theory-information-lab4\\fMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T15:29:30.053Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "fMain.cs",
+              "DocumentMoniker": "C:\\Labs\\theory-information\\theory-information-lab4\\theory-information-lab4\\fMain.cs",
+              "RelativeDocumentMoniker": "theory-information-lab4\\fMain.cs",
+              "ToolTip": "C:\\Labs\\theory-information\\theory-information-lab4\\theory-information-lab4\\fMain.cs",
+              "RelativeToolTip": "theory-information-lab4\\fMain.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T15:29:25.498Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
